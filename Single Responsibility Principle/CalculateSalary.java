@@ -1,0 +1,11 @@
+public class CalculateSalary {
+    public void calculateSalary() {
+        // calculate employee's pay
+    }
+}
+/**
+ * Single Responsibility Principle (SRP): A class should have only one reason to
+ * change, meaning that it should have only one responsibility.
+ * 
+ * Now, each class has a single responsibility.
+ */
